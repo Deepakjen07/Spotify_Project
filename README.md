@@ -1,6 +1,7 @@
 # Spotify_Project
 This project focuses on leveraging SQL to analyze Spotify’s dataset, uncovering insights into user behavior, music trends, and artist performance.
 <br>
+
 Key Highlights:
 
 Data Exploration: Analyzed datasets containing information on songs, artists, playlists, and user activity.<br>

@@ -2,8 +2,7 @@
 Project Category: Advanced
 [Click Here to get Dataset]:- 1. (https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
-                               2.(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkYyOGw3cnJZRHhEdE9vMGoxbXZBNXU3d1dPd3xBQ3Jtc0ttZVVIVTEtTVFscEVWd1VMaWxmWWtXZHdRYURPc2F3dG42OERnekdzRTNtNUZYVlY2Z25ZWVZ4b0x2V1VldkxaWTRSNmI2eHRXQXJ0WTJHcWQ3LUYyTFhnT2xLZDMtM3BlQXB5NE9RMVlsY3NzYXhITQ&q=https%3A%2F%2Fshorturl.at%2FsEIUV&v=VFIuIjswMKM)
-
+                               2.https://shorturl.at/sEIUV
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 

@@ -1,18 +1,19 @@
 # Spotify Advanced SQL Project and Query Optimization
 Project Category: Advanced
-[Click Here to get Dataset] :- 1.(https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+[Click Here to get Dataset]:- 1. (https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+
                                2.(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkYyOGw3cnJZRHhEdE9vMGoxbXZBNXU3d1dPd3xBQ3Jtc0ttZVVIVTEtTVFscEVWd1VMaWxmWWtXZHdRYURPc2F3dG42OERnekdzRTNtNUZYVlY2Z25ZWVZ4b0x2V1VldkxaWTRSNmI2eHRXQXJ0WTJHcWQ3LUYyTFhnT2xLZDMtM3BlQXB5NE9RMVlsY3NzYXhITQ&q=https%3A%2F%2Fshorturl.at%2FsEIUV&v=VFIuIjswMKM)
 
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 
 ## Overview
-This project involves multiple tables and a primary tables named as spotify which contains different columns from other tables. it involves analyzing different Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
+This project involves multiple tables and a primary table named Spotify, which contains columns different from those of other tables. It analyzes different Spotify datasets with various attributes about tracks, albums, and artists using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
-```sql
+```SQL
 -- create table
-DROP TABLE IF EXISTS spotify;
-CREATE TABLE spotify (
+DROP TABLE IF EXISTS Spotify;
+CREATE TABLE Spotify (
     artist VARCHAR(255),
     track VARCHAR(255),
     album VARCHAR(255),

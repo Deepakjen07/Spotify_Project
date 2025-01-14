@@ -1,8 +1,7 @@
 # Spotify Advanced SQL Project and Query Optimization
 Project Category: Advanced
 [Click Here to get Dataset]:- 1. (https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
-
-                               2.https://shorturl.at/sEIUV
+                        2.  https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa081Ukxaem9EbHBNSEJoMFlJdEdoUDk4cEVCZ3xBQ3Jtc0tsNDYwc19BeENlaFQtVzBkMW9weXFyLW5pRTl0S25aTVYtMHI1UnA2Q2dvMjNzbmowREVoQUs1RDBjRkMtZkl3cGJfR3VWRXJOc29BdGtDTW9nM3pmY2QxMEpKOVZEYzFuc0JKdkFLUWdRcUdNYlpYYw&q=https%3A%2F%2Fshorturl.at%2FDJMUX&v=VFIuIjswMKM
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 
